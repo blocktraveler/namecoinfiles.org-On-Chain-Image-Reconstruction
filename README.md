@@ -9,6 +9,12 @@ Original GitHub: [https://github.com/karelbilek/namecoin-files](https://github.c
 
 ---
 
+## On-chain archive
+
+➞ [nft/namecoinfiles_dot_org.zip](https://namecoin.online/explorer/details.php?q=nft%2Fnamecoinfiles_dot_org.zip)
+
+---
+
 ## Instructions
 
 ### 1. Install Python
